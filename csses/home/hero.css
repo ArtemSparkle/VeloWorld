@@ -2,6 +2,7 @@
 .hero {
   background-image: url(../../images/велосипедист\ на\ фон\ в\ приветствии\ темный.jpg);
   background-size: cover; 
+  background-position: center;
   color: #fff;
   padding: 100px 0;
   text-align: flex-start;

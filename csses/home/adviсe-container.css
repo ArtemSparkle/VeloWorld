@@ -3,10 +3,12 @@
   display: flex;
   align-items: center;
   gap: 50px;
+  
 }
 
 .adviсe__content {
   flex: 1;
+  
 }
 
 .adviсe__content .section__title {
@@ -21,10 +23,9 @@
 .adviсe__image-placeholder {
   flex: 1;
   height: 300px;
-  background-color: #ccc;
   border-radius: 8px;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #555;
+  
 }

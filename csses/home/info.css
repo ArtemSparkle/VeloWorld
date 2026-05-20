@@ -10,7 +10,7 @@
 }
 
 .info-link {
-  color: #0066cc;
+  color: var(--bg-white-blue);
   transition: color 0.3s background-color 0.3s;
 }
 
