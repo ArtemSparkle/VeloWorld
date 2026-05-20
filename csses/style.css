@@ -1,0 +1,17 @@
+ /* базовые стили */
+@import 'basic/reset.css';
+@import 'basic/fonts.css';
+@import 'basic/global.css';
+@import 'basic/var.css';
+@import 'basic/btn.css';
+@import 'basic/adaptiv.css';
+/* components */
+@import 'components/nav-bar.css';
+@import 'components/footer.css'; 
+  /* Home */
+@import 'home/hero.css';
+@import 'home/info.css';
+@import 'home/catalog.css';
+@import 'home/news.css';
+@import 'home/adviсe-container.css';
+

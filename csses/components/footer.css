@@ -1,0 +1,12 @@
+/* --- ПОДВАЛ --- */
+.footer {
+  background-color: var(--color-dark);
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer__copyright {
+  font-size: 14px;
+  opacity: 0.7;
+}

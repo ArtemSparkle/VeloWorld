@@ -1,0 +1,19 @@
+.info {
+  padding: 40px 0 0 0;
+}
+
+.info-container {
+  padding: 20px 24px;
+  background: var(--color-nav-link);
+  border-radius: 6px;
+  border-left: 4px solid rgb(44, 44, 255);
+}
+
+.info-link {
+  color: #0066cc;
+  transition: color 0.3s background-color 0.3s;
+}
+
+.info-link:hover {
+  color: var(--color-primary);
+}

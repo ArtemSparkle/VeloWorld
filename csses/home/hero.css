@@ -1,0 +1,42 @@
+/* --- ГЛАВНЫЙ ЭКРАН (Hero) --- */
+.hero {
+  background-image: url(../../images/велосипедист\ на\ фон\ в\ приветствии\ темный.jpg);
+  background-size: cover; 
+  color: #fff;
+  padding: 100px 0;
+  text-align: flex-start;
+  display: flex;
+  max-width: 100%;
+}
+
+.hero-link {
+  display: flex;
+  gap: 14px;
+}
+
+.hero__container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 40px;
+  max-width: 700px;
+  margin: 0;
+}
+
+.hero__title {
+  font-size: 48px;
+  margin-bottom: 0;
+  
+}
+
+.hero__text {
+  font-size: 18px;
+  max-width: 600px;
+  margin-bottom: 40px;
+  opacity: 0.9;
+}
+
+.hero_title-span {
+  color: #ff9900;
+}

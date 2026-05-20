@@ -1,0 +1,15 @@
+:root {
+  --color-primary: #ff9900; /* Динамичный цвет для активного образа жизни */
+  --color-primary-hover: #cc7a00;
+  --color-dark: #1d3557;
+  --color-text: #333333;
+  --color-bg-white: #ffffff;
+  --color-gray: #f1faee;
+  --color-border: #cccccc;
+  --bg-white-blue: #0066cc;
+  --bg-blue: #004d99;
+  --color-white: #fff;
+  --color-nav-link: #bed1e2;
+
+  
+}

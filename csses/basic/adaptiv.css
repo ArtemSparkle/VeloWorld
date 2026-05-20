@@ -1,0 +1,18 @@
+/* --- АДАПТИВНОСТЬ --- */
+@media (max-width: 768px) {
+  .header__container {
+    flex-direction: column;
+    justify-content: center;
+    
+    height: auto;
+  }
+  
+  .catalog__grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .info__container,
+  .contacts__container {
+    flex-direction: column;
+  }
+} 
