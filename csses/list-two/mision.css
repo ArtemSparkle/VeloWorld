@@ -1,0 +1,32 @@
+.mision {
+  padding: 20px 0 20px 0;
+}
+
+.info-in-site {
+  margin-bottom: 220px;
+}
+
+.mision__container {
+  background-color: #cfcfcf;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.info-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: var(--bg-white-blue);
+}
+.info-paragraf {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333333;
+}
+.info-paragraf--first {
+  margin-bottom: 15px;
+}
+
+.info-list {
+  list-style-type: disc;
+}

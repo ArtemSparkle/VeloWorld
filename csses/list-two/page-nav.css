@@ -1,0 +1,32 @@
+.page-nav {
+  padding: 20px 0;
+  width: 100%; 
+}
+
+.page-nav__background {
+  background: #cfcfcf;
+  margin: 0 auto;
+  padding: 0 20px;
+  border-bottom: 3px solid var(--color-primary);
+  padding: 20px 0;
+}
+
+.page-nav__link {
+  color: var(--bg-white-blue);
+  font-size: 18px;
+  font-weight: 500;
+  
+}
+.page-nav__current {
+  font-size: 18px;
+}
+
+.page-nav__title {
+  font-size: 26px;
+  color: #004d99;
+}
+
+.mision__title {
+  color: #004d99;
+  font-size: 22px;
+}

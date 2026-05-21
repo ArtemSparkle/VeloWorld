@@ -14,4 +14,8 @@
 @import 'home/catalog.css';
 @import 'home/news.css';
 @import 'home/adviсe-container.css';
-
+ /* list-two */
+ @import 'list-two/page-nav.css';
+ @import 'list-two/mision.css';
+/* list-tree */
+@import 'list-tree/grid-section.css';
