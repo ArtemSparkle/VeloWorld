@@ -1,5 +1,5 @@
 /* --- АДАПТИВНОСТЬ --- */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .header__container {
     flex-direction: column;
     justify-content: center;
@@ -15,4 +15,10 @@
   .contacts__container {
     flex-direction: column;
   }
-} 
+}  */
+
+@media (max-width: 768px) {
+  .boxes-nevs__image {
+    display: none;
+  }
+}
